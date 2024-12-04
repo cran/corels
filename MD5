@@ -1,9 +1,9 @@
-2065c65a82d877e5b540ca60fd1bc864 *ChangeLog
-da5f68b7e307b2154cee7e1d4db7708c *DESCRIPTION
+0c8d90ba647ff5b4a7187545bdfab089 *ChangeLog
+fc90f770cf9e053020c8a4fc3b9a7ea2 *DESCRIPTION
 1ebdb7999e1d2e3a46d645b113e86fa1 *NAMESPACE
 6591c4874bc7319e6ce0fb97424b1709 *R/RcppExports.R
-b42a39783a00ce4dd271b4a625974ecb *README.md
-4a2fab1012fe03db11fd22fead645789 *build/partial.rdb
+9a9348a9a526bcf5387a15e42f4f40f4 *README.md
+41d49fd91127b6910f5815653f818a66 *build/partial.rdb
 94f127445c4c3ce515f582adfe70bf55 *cleanup
 72aadc5ac34b8f0d6d8a08d77b8f66d5 *configure
 10f38c2e466005fcf6f4eb63204f2328 *configure.ac
@@ -19,8 +19,8 @@ bdfddb208fb0a3e10e24a614b14975ee *inst/sample_data/compas_train.csv
 ff3c2cca78019bc8b9774e67dbbd446f *inst/sample_data/compas_train.out
 041472cae014c2c752d9957c5983d70e *man/corels-package.Rd
 e97014d9b67e3da2764a5888e54437ee *man/corels.Rd
-bb628c2b4ce53a36aea5c711ac8a8288 *src/Makevars.in
-c785bdc8d174b15ef60f85dc6e37acf5 *src/Makevars.win
+54e2f9a9ffc886765bb4014c97ba8fe1 *src/Makevars.in
+b6851ba88f765253967e31dd52496af0 *src/Makevars.win
 4a83737e02a40de19f2498808ae7b3dd *src/RcppExports.cpp
 3425be95709d491482549591ffb3be54 *src/alloc.h
 f36a8955af89eb4bf0c861308df7ee80 *src/cache.cpp
